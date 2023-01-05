@@ -12,6 +12,10 @@ Esse projeto reúne alguns conhecimentos vistos até o momento na linguagem Java
 - Funções;
 - Condicionais;
 
+## Acesse:
+
+https://jessicaagrs.github.io/projeto_compraDePizza_javascript/
+
 
 ## Tecnologias Utilizadas
 
