@@ -9,7 +9,7 @@
   <img src="https://uploaddeimagens.com.br/images/004/413/687/full/html.png?1680281627"/>
 </p>
 
-Status do Projeto: :warning: <!-- > :heavy_check_mark:--> Em andamento <!-- > :warning:-->
+Status do Projeto: :heavy_check_mark: Concluído
 
 ### Tópicos 
 
@@ -61,7 +61,7 @@ git clone https://github.com/jessicaagrs/projeto_compraDePizza_javascript.git
 
 ```
 
-> Link para execução do projeto no browser: https://jessicaagrs.github.io/projeto_compraDePizza_javascript/
+> Link para execução do projeto no browser: https://jessicaagrs.github.io/frontend_projetoCompraDePizza/
 
 <!-- ## Como rodar os testes
 
